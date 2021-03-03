@@ -81,13 +81,13 @@ header, footer {
 
 @font-face {
     font-family:Montserrat;
-    src: url(../fonts/montserrat-rgular.ttf);
+    src: url(../fonts/montserrat-rgular.ttf') format('truetype');
     font-weight:normal;
     font-style:normal;
 }
 @font-face {
         font-family:Josefinslab
-    src: url(../fonts/josfinslab-regular.ttf);
+    src: url(../fonts/josfinslab-regular.ttf)format('truetype');
     font-style:normal;
     font-weight:normal;
 }
