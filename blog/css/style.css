@@ -73,6 +73,7 @@ h3 {
     margin:0;
     border-top:0 solid #ddd;
     border-bottom:0 solid #ddd;}
+
 @font-face {
     font-family:Montserrat;
     src: url(../fonts/sans-serif/montserrat-rgular.ttf') format('truetype');
@@ -152,6 +153,11 @@ figcaption{
 }
 button {
     color:white;
-    background-color: blue;
+    background-color: skyblue;
     width:30%;
+    text-align: center;
+    tab-size: 200%;
+}
+nav a {
+    text-decoration: none;
 }
