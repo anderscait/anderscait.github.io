@@ -156,7 +156,13 @@ button {
     background-color: skyblue;
     width:30%;
     text-align: center;
-    tab-size: 200%;
+    font-size: 2rem;
+    margin: 4px 2px;
+    border: none;
+    
+}
+.button {
+   border-radius: 8px; 
 }
 nav a {
     text-decoration: none;
